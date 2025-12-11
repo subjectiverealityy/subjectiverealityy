@@ -2,6 +2,7 @@
 - 🌱 I’m interested in making websites and apps with good UX and performance that display and/or facilitate the exchange of useful information.
 - ✨ I'm looking to work with developers, UI designers and people that want their Figma files or other forms of UI representation converted into readable, well-written code. 
 - 👀 How to reach me - [LinkedIn](https://www.linkedin.com/in/ogechukwu-onuora/) and/or subjectiverealityy@gmail.com
+- ⚡ I have also worked with Next.js, Tailwind CSS, Material UI, Redux, Swagger and Django endpoints.
 - 💫 “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” - Viktor E. Frankl
 
 
