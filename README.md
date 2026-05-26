@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oge. I code web interfaces from scratch using HTML, CSS and JavaScript.
+- 👋 Hi, I’m Oge.
 - 🌱 I’m interested in making websites and apps with good UX and performance that display and/or facilitate the exchange of useful information.
 - ✨ I'm looking to work with developers, UI designers and people that want their Figma files or other forms of UI representation converted into readable, well-written code.
-- ⚡ In addition, I have worked with Wix, JSON, Next.js, Tailwind CSS, Material UI, Redux, Swagger and Django endpoints.
+- ⚡ I have worked with HTML, CSS, Figma, JavaScript, JSON, React, Next.js, Tailwind CSS, Material UI, Redux, Swagger, Django endpoints, Postman, Zustand, Lucide and web builders (Wix and Wordpress).
 - 👀 How to reach me - [LinkedIn](https://www.linkedin.com/in/ogechukwu-onuora/) and/or subjectiverealityy@gmail.com
 - 💫 “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” - Viktor E. Frankl
 
